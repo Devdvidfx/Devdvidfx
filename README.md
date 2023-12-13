@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias que eu amo usar no meu dia a dia:
 
 ## Projetos em Destaque
 
-- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Scanner de Vulnerabilidades em sites.
+- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Scanner de sites.
 - [QRazy](https://github.com/Imvelloster46/QRazy): Gerador de QRcode Personalizado.
 
 ## Contato
