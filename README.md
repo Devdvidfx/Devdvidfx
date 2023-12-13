@@ -1,16 +1,32 @@
-### Hi there 👋
+# Davi Felipe - GitHub Portfolio 💾
 
-<!--
-**Imvelloster46/Imvelloster46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, eu sou o Davi Felipe, um apaixonado por tecnologia, programação e inovação! Bem-vindo ao meu portfólio de repositórios! 💻
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Davi Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imvelloster46&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias
+
+Aqui estão algumas das tecnologias que eu amo usar no meu dia a dia:
+
+- **Python**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **Java**
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imvelloster46&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projetos em Destaque
+
+- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Scanner de Vulnerabilidades em sites.
+- [QRazy](https://github.com/Imvelloster46/QRazy): Gerador de QRcode Personalizado.
+
+## Contato
+
+Vamos nos conectar! Me adicione no LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
