@@ -1,4 +1,4 @@
-# 🚀 Davi Felipe - GitHub Portfolio 🚀
+# 🚀 Davi Felipe - Portfólio 🚀
 
 E aí, visitante! Eu sou o Davi Felipe, um entusiasta da tecnologia, apaixonado por programação e movido por desafios inovadores. Aqui está um pouco do meu universo em linhas de código! 💻
 
