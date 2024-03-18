@@ -1,6 +1,6 @@
-🚀 Davi Felipe 🚀
+# 🚀 Davi Felipe 🚀
 
-E aí, visitante! Eu me chamo Davi Felipe, sou um entusiasta da tecnologia, apaixonado por programação e movido por desafios inovadores. Aqui está um pouco do meu Trabalho! 💻
+Olá, eu sou Davi Felipe, um entusiasta da tecnologia, apaixonado por programação e sempre em busca de desafios inovadores. Aqui está um pouco do meu trabalho! 💻
 
 ## 📊 GitHub Stats
 
@@ -8,18 +8,16 @@ E aí, visitante! Eu me chamo Davi Felipe, sou um entusiasta da tecnologia, apai
 
 ## 🔧 Tecnologias
 
-Essas são algumas das ferramentas que uso para transformar ideias em realidade:
-
-- **Python**
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **Java**
+- Python
+- JavaScript
+- HTML
+- CSS
+- Java
 
 ## 🚀 Projetos em Destaque
 
-- **[UrlSheriff](https://github.com/Imvelloster46/UrlSheriff):** Desbravando a web com um scanner de sites.
-- **[QRazy](https://github.com/Imvelloster46/QRazy):** Transformando informações em códigos QR personalizados.
+- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Desbravando a web com um scanner de sites.
+- [QRazy](https://github.com/Imvelloster46/QRazy): Transformando informações em códigos QR personalizados.
 
 ## 📫 Contato
 
@@ -27,4 +25,4 @@ Vamos trocar ideias e experiências! Conecte-se comigo no LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-Feel free to explore and reach out! 🌟
+🌟
