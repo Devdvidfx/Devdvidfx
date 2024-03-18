@@ -16,7 +16,7 @@ Olá, eu sou Davi Felipe, um entusiasta da tecnologia, apaixonado por programaç
 
 ## 🚀 Projetos em Destaque
 
-- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Desbravando a web com um scanner de sites.
+- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Um scanner de sites.
 - [QRazy](https://github.com/Imvelloster46/QRazy): Transformando informações em códigos QR personalizados.
 
 ## 📫 Contato
