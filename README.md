@@ -20,5 +20,3 @@ Aqui está um pouco do meu trabalho! 💻
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
-🌟
