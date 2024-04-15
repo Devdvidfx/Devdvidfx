@@ -4,7 +4,7 @@ Olá, eu sou Davi Felipe, um entusiasta da tecnologia, apaixonado por programaç
 
 ## 📊 GitHub Stats
 
-[![Davi Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imvelloster46&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Davi Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devdvidfx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Tecnologias
 
