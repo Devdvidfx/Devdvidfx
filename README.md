@@ -1,6 +1,7 @@
-# 🚀
-Olá, eu me chamo Davi Felipe, um entusiasta da tecnologia, apaixonado por programação e sempre em busca de desafios inovadores.
+Opa, Sou um entusiasta da tecnologia, apaixonado por programação e sempre em busca de desafios inovadores.
 Aqui está um pouco do meu trabalho! 💻
+- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Um scanner de sites.
+- [QRazy](https://github.com/Imvelloster46/QRazy): Transformando informações em códigos QR personalizados.
 
 ## 🔧 Tecnologias que tenho conhecimento
 - Python
@@ -9,10 +10,6 @@ Aqui está um pouco do meu trabalho! 💻
 - CSS
 - Java
 - AWS
-
-## 🚀 Projetos em Destaque
-- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Um scanner de sites.
-- [QRazy](https://github.com/Imvelloster46/QRazy): Transformando informações em códigos QR personalizados.
 
 ## 📊 GitHub Stats
 
