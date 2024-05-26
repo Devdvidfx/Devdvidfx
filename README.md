@@ -16,4 +16,5 @@ Aqui está um pouco do meu trabalho! 💻
 [![Davi Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devdvidfx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/
+devdavifelipe)
