@@ -1,4 +1,4 @@
-# Davi Felipe!
+# Davi Felipe
 Sou um entusiasta da tecnologia, apaixonado por programação e sempre em busca de desafios inovadores.
 Aqui está um pouco do meu trabalho!
 
