@@ -1,6 +1,5 @@
-# Olá, sou Davi Felipe! 👋
-
-### 🚀 Desenvolvedor e Entusiasta de Tecnologia
+# Olá, eu me chamo Davi Felipe, e eu sou um...
+### 🚀 Desenvolvedor e um Entusiasta em Tecnologia e afins.
 
 Apaixonado por programação e sempre em busca de desafios inovadores.
 
