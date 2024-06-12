@@ -1,7 +1,6 @@
-# Olá, eu me chamo Davi Felipe ⚡
-### 🚀 Desenvolvedor e um Entusiasta em Tecnologia e afins.
-
-Apaixonado por programação e sempre em busca de desafios inovadores.
+# Davi Felipe⚡
+### 🚀 Sou estudante de Sistemas de informação pela faculdade Unifametro, um entusiasta na área da tecnologia,
+sempre buscando aprender mais e aprimorar as habilidades colocando em prática.
 
 ---
 
@@ -61,9 +60,25 @@ Transformando informações em códigos QR personalizados de forma eficiente.
 ---
 
 ## 🌟 Sobre Mim
+Prezados,
+ Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
 
-Sou um desenvolvedor focado em criar soluções eficientes e inovadoras. Estou sempre em busca de novos conhecimentos e desafios que possam melhorar minhas habilidades e contribuir para a comunidade tecnológica.
+## Habilidades Técnicas:
+ Linguagens de Programação: Java, Python.
+ Desenvolvimento Web: HTML, CSS, JavaScript
+ Banco de Dados: SQL, MySQL.
+ Ferramentas de Desenvolvimento: Eclipse, IntelliJ IDEA, Visual Studio Code.
+ Sistemas Operacionais: Windows, Linux.
+ Metodologias Ágeis: Scrum, Kanban.
 
+## Idiomas:
+ Português: Nativo
+ Inglês: Básico
+
+## Interesses:
+ Desenvolvimento de Software
+ Inteligência Artificial e Machine Learning
+ Aplicações Web e Mobile
 ✨ Sempre em busca de novas oportunidades e projetos interessantes! ✨
 
 ---
