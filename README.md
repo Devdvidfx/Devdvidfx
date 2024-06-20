@@ -1,15 +1,16 @@
 # Davi Felipe ⚡
-### 🚀 Sou estudante de Sistemas de Informação pela faculdade Unifametro, um entusiasta na área da tecnologia, sempre buscando aprender mais e aprimorar as habilidades colocando em prática.
+### Sou estudante de Sistemas de Informação pela faculdade Unifametro, 
+um entusiasta na área da tecnologia, sempre buscando aprender mais e aprimorar as habilidades colocando em prática.
 
 ---
 
-## 🚀 Projetos Destaque
+##  Projetos
 
 ### [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff)
-Um scanner de sites poderoso para garantir a segurança online.
+Um scanner de sites.
 
 ### [QRazy](https://github.com/Imvelloster46/QRazy)
-Transformando informações em códigos QR personalizados de forma eficiente.
+Gerador de códigos QR personalizados.
 
 ---
 
