@@ -12,7 +12,7 @@ Um scanner de sites.
 ### [QRazy](https://github.com/Imvelloster46/QRazy)
 Gerador de códigos QR personalizados.
 
-### [To-do-List]([https://github.com/Imvelloster46/UrlSheriff](https://replit.com/@davifelipe17/To-do-List?v=1))
+### [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1)
 Faça suas tarefas e tenha o controle em suas maos.
 ---
 
