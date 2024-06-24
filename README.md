@@ -1,4 +1,4 @@
-# Davi Felipe ⚡
+# OI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Davi Felipe⚡
 ### Sou estudante de Sistemas de Informação pela faculdade Unifametro, 
 um entusiasta na área da tecnologia, sempre buscando aprender mais e aprimorar as habilidades colocando em prática.
 
