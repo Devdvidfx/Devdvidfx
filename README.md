@@ -1,22 +1,20 @@
 # OI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Davi Felipe⚡
-### Sou estudante de Sistemas de Informação pela faculdade Unifametro, 
-um entusiasta na área da tecnologia, sempre buscando aprender mais e aprimorar as habilidades colocando em prática.
+
+### Sou estudante de Sistemas de Informação pela faculdade Unifametro, um entusiasta na área da tecnologia, sempre buscando aprender mais e aprimorar as habilidades colocando em prática.
 
 ---
 
 ## Portfólio 
 ### [Portfólio](https://devdvidfx.github.io/davifelipedev/)
 
-##  Projetos
+---
 
-### [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff)
-Um scanner de sites.
+## Projetos
 
-### [QRazy](https://github.com/Imvelloster46/QRazy)
-Gerador de códigos QR personalizados.
+- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Um scanner de sites.
+- [QRazy](https://github.com/Imvelloster46/QRazy): Gerador de códigos QR personalizados.
+- [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1): Faça suas tarefas e tenha o controle em suas mãos.
 
-### [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1)
-Faça suas tarefas e tenha o controle em suas maos.
 ---
 
 ## 🔧 Tecnologias
@@ -70,7 +68,7 @@ Prezados,
 
 Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
 
-## Habilidades Técnicas:
+### Habilidades Técnicas:
 
 - Linguagens de Programação: Java, Python.
 - Desenvolvimento Web: HTML, CSS, JavaScript
@@ -79,12 +77,12 @@ Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologi
 - Sistemas Operacionais: Windows, Linux.
 - Metodologias Ágeis: Scrum, Kanban.
 
-## Idiomas:
+### Idiomas:
 
 - Português: Nativo
 - Inglês: Básico
 
-## Interesses:
+### Interesses:
 
 - Desenvolvimento de Software
 - Inteligência Artificial e Machine Learning
