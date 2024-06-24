@@ -7,13 +7,16 @@
 ## Portfólio 
 ### [Portfólio](https://devdvidfx.github.io/davifelipedev/)
 
----
-
 ## Projetos
 
-- [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff): Um scanner de sites.
-- [QRazy](https://github.com/Imvelloster46/QRazy): Gerador de códigos QR personalizados.
-- [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1): Faça suas tarefas e tenha o controle em suas mãos.
+### [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff)
+Um scanner de sites.
+
+### [QRazy](https://github.com/Imvelloster46/QRazy)
+Gerador de códigos QR personalizados.
+
+### [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1)
+Faça suas tarefas e tenha o controle em suas mãos.
 
 ---
 
@@ -64,31 +67,34 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Meu nome é Davi Felipe, estudante de Sistemas de Informação na Unifametro. Sou apaixonado por tecnologia desde cedo e estou constantemente buscando novos desafios para melhorar minhas habilidades como desenvolvedor.
+Prezados,
 
-### Habilidades Técnicas:
+Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
 
-- **Linguagens de Programação:** Java, Python.
-- **Desenvolvimento Web:** HTML, CSS, JavaScript.
-- **Banco de Dados:** SQL, MySQL.
-- **Ferramentas de Desenvolvimento:** Eclipse, IntelliJ IDEA, Visual Studio Code.
-- **Cloud Computing:** AWS.
+## Habilidades Técnicas:
 
-### Experiência:
+- Linguagens de Programação: Java, Python.
+- Desenvolvimento Web: HTML, CSS, JavaScript
+- Banco de Dados: SQL, MySQL.
+- Ferramentas de Desenvolvimento: Eclipse, IntelliJ IDEA, Visual Studio Code.
+- Sistemas Operacionais: Windows, Linux.
+- Metodologias Ágeis: Scrum, Kanban.
 
-Atualmente, estou trabalhando em projetos pessoais como o [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff), um scanner de sites para segurança cibernética, e o [QRazy](https://github.com/Imvelloster46/QRazy), um gerador de códigos QR personalizados. Além disso, mantenho uma [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1) para ajudar na organização do dia a dia.
-
-### Interesses:
-
-Meus interesses incluem desenvolvimento de software, inteligência artificial e aplicações web e mobile. Estou sempre aberto a novas oportunidades e colaborações em projetos inovadores.
-
-### Idiomas:
+## Idiomas:
 
 - Português: Nativo
-- Inglês: Intermediário
+- Inglês: Básico
+
+## Interesses:
+
+- Desenvolvimento de Software
+- Inteligência Artificial e Machine Learning
+- Aplicações Web e Mobile
+
+Sempre em busca de novas oportunidades e projetos interessantes! ✨
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Devdvidfx/raw/master/assets/digital-greeting.gif" alt="Digital Greeting" width="50%">
+  <img src="https://github.com/Imvelloster46/Imvelloster46/raw/master/assets/digital-greeting.gif" alt="Digital Greeting" width="50%">
 </div>
