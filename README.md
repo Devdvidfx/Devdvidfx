@@ -74,7 +74,7 @@ Faça suas tarefas e tenha o controle em suas mãos.
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <a href="https://github.com/Devdvidfx/Devdvidfx" style="text-decoration: none;">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devdvidfx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devdvidfx&show_icons=true&theme=radical&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Devdvidfx/Devdvidfx" style="text-decoration: none;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdvidfx&layout=compact&langs_count=7&theme=radical"/>
