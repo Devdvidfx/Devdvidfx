@@ -122,10 +122,6 @@ Faça suas tarefas e tenha o controle em suas mãos.
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Devdvidfx/Devdvidfx/raw/master/assets/digital-greeting.gif" alt="Digital Greeting" width="50%">
-</div>
-
 ## ✅ Perfil de estudo
 <a href="https://github.com/davifdev085" title="GitHub perfil de Estudante.">
   <img src="https://img.shields.io/static/v1?label=Overview&message=Devdvidfx&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
