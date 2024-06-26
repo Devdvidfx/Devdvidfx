@@ -87,15 +87,6 @@ Faça suas tarefas e tenha o controle em suas mãos.
   </a>
 </div>
 
-## 🕒 Estatísticas Semanais do WakaTime
-
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <a href="https://github.com/Devdvidfx/Devdvidfx" style="text-decoration: none;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devdvidfx&layout=compact&theme=radical" alt="WakaTime Stats"/>
-  </a>
-</div>
----
-
 ## 🏆 Conquistas
 
 <div align="center">
