@@ -1,52 +1,77 @@
 # OI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu me chamo Davi Felipe⚡
 
 ### Sou estudante de Sistemas de Informação pela faculdade Unifametro, um entusiasta na área da tecnologia, sempre buscando aprender mais e aprimorar as minhas habilidades nesta área.
-
 ---
 ## 🌟 Sobre Mim
-
 Prezados,
 
 Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
 
+---
+
 ## Habilidades Técnicas:
+- **Linguagens de Programação:** Java, Python.
+- **Desenvolvimento Web:** HTML, CSS, JavaScript.
+- **Banco de Dados:** SQL, MySQL.
+- **Ferramentas de Desenvolvimento:** Eclipse, IntelliJ IDEA, Visual Studio Code.
+- **Sistemas Operacionais:** Windows, Linux.
+- **Metodologias Ágeis:** Scrum, Kanban, XP.
+- **Redes de Computadores:** Suporte e configuração
 
--**Linguagens de Programação:** Java, Python.
--**Desenvolvimento Web:** HTML, CSS, JavaScript
--**Banco de Dados:** SQL, MySQL.
--**Ferramentas de Desenvolvimento:** Eclipse, IntelliJ IDEA, Visual Studio Code.
--**Sistemas Operacionais:** Windows, Linux.
--**Metodologias Ágeis:** Scrum, Kanban, XP.
--**Redes de Computadores:** Suporte e configuração.
-
+---
+  
 ## Idiomas:
-
 - Português: Nativo
 - Inglês: Básico
+
+---
 
 ## Interesses:
 
 - Desenvolvimento de Software Back-End.
 - Inteligência Artificial e Machine Learning.
 - Aplicações Web e Mobile.
-- 
+- Cibersegurança.
+- Sistemas de Automação.
 
-Sempre em busca de novas oportunidades e projetos, se achou interessante, entre em contato comigo, logo abaixo está meu Portfólio.
+estou sempre em busca de novas oportunidades e projetos, se achou interessante, entre em contato comigo.<br>
+Logo abaixo está meu Portfólio.
 
-## Portfólio 
 ### [Portfólio](https://devdvidfx.github.io/davifelipedev/)
 
-
+<br></br>
 
 ---
 
-## 🔧 Tecnologias
+## 🔧 Tecnologias que tenho conhecimento
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,pycharm,py" /><br><br>
   </a>
 </p>
 
+---
+
+## 🧰 Ferramentas de Desenvolvimento
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,replit" /><br><br>
+  </a>
+</p>
+
+---
+
+## ☕ Alguns Projetos
+### [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff)
+Um scanner de sites.
+
+### [QRazy](https://github.com/Imvelloster46/QRazy)
+Gerador de códigos QR personalizados.
+
+### [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1)
+Faça suas tarefas e tenha o controle em suas mãos.
+
+---
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -97,5 +122,5 @@ Sempre em busca de novas oportunidades e projetos, se achou interessante, entre 
 ---
 
 <div align="center">
-  <img src="https://github.com/Imvelloster46/Imvelloster46/raw/master/assets/digital-greeting.gif" alt="Digital Greeting" width="50%">
+  <img src="https://github.com/Devdvidfx/Devdvidfx/raw/master/assets/digital-greeting.gif" alt="Digital Greeting" width="50%">
 </div>
