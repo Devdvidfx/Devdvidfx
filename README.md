@@ -27,7 +27,6 @@ Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologi
 ---
 
 ## Interesses:
-
 - Desenvolvimento de Software Back-End.
 - Inteligência Artificial e Machine Learning.
 - Aplicações Web e Mobile.
@@ -38,8 +37,7 @@ estou sempre em busca de novas oportunidades e projetos, se achou interessante, 
 Logo abaixo está meu Portfólio.
 
 ### [Portfólio](https://devdvidfx.github.io/davifelipedev/)
-
-<br></br>
+<br>
 
 ---
 
@@ -74,17 +72,28 @@ Faça suas tarefas e tenha o controle em suas mãos.
 ---
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devdvidfx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdvidfx&layout=compact&langs_count=7&theme=radical"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devdvidfx&theme=radical" alt="GitHub Streak Stats" />
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devdvidfx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Devdvidfx&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdvidfx&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devdvidfx&theme=radical" alt="GitHub Streak Stats" />
+  </a>
+  <a href="https://github.com/Devdvidfx/Devdvidfx" style="text-decoration: none;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Devdvidfx&repo=Devdvidfx&theme=radical" alt="Customized Card"/>
+  </a>
 </div>
 
+## 🕒 Estatísticas Semanais do WakaTime
 
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <a href="https://github.com/Devdvidfx/Devdvidfx" style="text-decoration: none;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devdvidfx&layout=compact&theme=radical" alt="WakaTime Stats"/>
+  </a>
+</div>
 ---
 
 ## 🏆 Conquistas
