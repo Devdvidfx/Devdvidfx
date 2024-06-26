@@ -80,7 +80,10 @@ Faça suas tarefas e tenha o controle em suas mãos.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdvidfx&layout=compact&langs_count=7&theme=radical"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devdvidfx&theme=radical" alt="GitHub Streak Stats" />
   </a>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Devdvidfx&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card" />
 </div>
+
 
 ---
 
