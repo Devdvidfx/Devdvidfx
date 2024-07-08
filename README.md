@@ -6,13 +6,10 @@
   </a>
 </p>
 
----
 ## 🌟 Sobre Mim
 Prezados,
 
 Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
-
----
 
 ## Habilidades Técnicas:
 - **Linguagens de Programação:** Java, Python.
@@ -23,13 +20,9 @@ Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologi
 - **Metodologias Ágeis:** Scrum, Kanban, XP.
 - **Redes de Computadores:** Suporte e configuração
 
----
-  
 ## Idiomas:
 - Português: Nativo
 - Inglês: Básico
-
----
 
 ## Interesses:
 - Desenvolvimento de Software Back-End.
@@ -44,8 +37,6 @@ Logo abaixo está meu Portfólio.
 ### [Portfólio](https://devdvidfx.github.io/davifelipedev/)
 <br>
 
----
-
 ## 🔧 Tecnologias que tenho conhecimento
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,16 +44,12 @@ Logo abaixo está meu Portfólio.
   </a>
 </p>
 
----
-
 ## 🧰 Ferramentas de Desenvolvimento
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,replit" /><br><br>
   </a>
 </p>
-
----
 
 ## ☕ Alguns Projetos
 ### [UrlSheriff](https://github.com/Imvelloster46/UrlSheriff)
@@ -74,7 +61,6 @@ Gerador de códigos QR personalizados.
 ### [To-do-List](https://replit.com/@davifelipe17/To-do-List?v=1)
 Faça suas tarefas e tenha o controle em suas mãos.
 
----
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
@@ -100,8 +86,6 @@ Faça suas tarefas e tenha o controle em suas mãos.
   </a>
 </div>
 
----
-
 ## 🌐 Contato
 
 <p align="center">
@@ -125,14 +109,11 @@ Faça suas tarefas e tenha o controle em suas mãos.
   </a>
 </p>
 
----
-
 ## ✅ Perfil de estudo
 <a href="https://github.com/davifdev085" title="GitHub perfil de Estudante.">
   <img src="https://img.shields.io/static/v1?label=Overview&message=Devdvidfx&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
  </a>
 
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" />
 </p>
