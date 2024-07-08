@@ -110,7 +110,8 @@ Faça suas tarefas e tenha o controle em suas mãos.
 </p>
 
 ## ✅ Perfil de estudo
-<a href="https://github.com/davifdev085" title="GitHub perfil de Estudante.">
+
+<a align="center" href="https://github.com/davifdev085" title="GitHub perfil de Estudante.">
   <img src="https://img.shields.io/static/v1?label=Overview&message=Devdvidfx&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
  </a>
 
