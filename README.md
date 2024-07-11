@@ -1,5 +1,7 @@
-# Oi, tudo bem?,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem vindo  ao meu mundo !
+# Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem-vindo ao meu mundo!
+
 <img src="https://wallpaper4k.top/wp-content/uploads/2024/01/Wallpaper-de-resolucao-ultra-HD-programacao-1536x864.webp" width="100%" height="350px" />
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudante+de+Sistemas+de+Informação;Entusiasta+de+tecnologia;Sempre+aprendendo;Aprimorando+habilidades;Desenvolvedor+em+formação;Colaborador+de+código+aberto">
@@ -12,12 +14,12 @@ Prezados,
 Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
 
 ## Habilidades Técnicas:
-- **Linguagens de Programação:** Java, Python.
-- **Desenvolvimento Web:** HTML, CSS, JavaScript.
-- **Banco de Dados:** SQL, MySQL.
-- **Ferramentas de Desenvolvimento:** Eclipse, IntelliJ IDEA, Visual Studio Code.
-- **Sistemas Operacionais:** Windows, Linux.
-- **Metodologias Ágeis:** Scrum, Kanban, XP.
+- **Linguagens de Programação:** Java, Python
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Banco de Dados:** SQL, MySQL
+- **Ferramentas de Desenvolvimento:** Eclipse, IntelliJ IDEA, Visual Studio Code
+- **Sistemas Operacionais:** Windows, Linux
+- **Metodologias Ágeis:** Scrum, Kanban, XP
 - **Redes de Computadores:** Suporte e configuração
 
 ## Idiomas:
@@ -25,29 +27,27 @@ Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologi
 - Inglês: Básico
 
 ## Interesses:
-- Desenvolvimento de Software Back-End.
-- Inteligência Artificial e Machine Learning.
-- Aplicações Web e Mobile.
-- Cibersegurança.
-- Sistemas de Automação.
+- Desenvolvimento de Software Back-End
+- Inteligência Artificial e Machine Learning
+- Aplicações Web e Mobile
+- Cibersegurança
+- Sistemas de Automação
 
-estou sempre em busca de novas oportunidades e projetos, se achou interessante, entre em contato comigo.<br>
-Logo abaixo está meu Portfólio.
+Estou sempre em busca de novas oportunidades e projetos. Se achou interessante, entre em contato comigo. Logo abaixo está meu Portfólio.
 
 ### [Portfólio](https://devdvidfx.github.io/davifelipedev/)
-<br>
 
-## 🔧 Tecnologias que tenho conhecimento
+## 🔧 Tecnologias que Tenho Conhecimento
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,py" /><br><br>
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,py" /><br><br>
   </a>
 </p>
 
 ## 🧰 Ferramentas de Desenvolvimento
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,replit" /><br><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,replit" /><br><br>
   </a>
 </p>
 
@@ -90,8 +90,8 @@ Faça suas tarefas e tenha o controle em suas mãos.
 
 <p align="center">
   <a href="mailto:davifelipedev@gmail.com?subject=Vim%20pelo%20seu%20GitHub!!&body=Estou%20entrando%20em%20contato%20com%20você.">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/devdavifelipe/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -109,14 +109,13 @@ Faça suas tarefas e tenha o controle em suas mãos.
   </a>
 </p>
 
-## ✅ Perfil de estudo
+## ✅ Perfil de Estudo
 
-<p align="center"
-<a href="https://github.com/davifdev085" title="GitHub perfil de Estudante.">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Devdvidfx&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
- </a>
+<p align="center">
+  <a href="https://github.com/davifdev085" title="GitHub perfil de Estudante.">
+    <img src="https://img.shields.io/static/v1?label=Overview&message=Devdvidfx&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
+  </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davifdev085&color=006bed" alt="Profile views" />
 </p>
-
