@@ -1,17 +1,19 @@
-# Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem-vindo ao meu mundo!
+# Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="https://wallpaper4k.top/wp-content/uploads/2024/01/Wallpaper-de-resolucao-ultra-HD-programacao-1536x864.webp" width="100%" height="350px" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudante+de+Sistemas+de+Informação;Entusiasta+de+tecnologia;Sempre+aprendendo;Aprimorando+habilidades;Desenvolvedor+em+formação;Colaborador+de+código+aberto">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Entusiasta+de+tecnologia;Sempre+aprendendo;Aprimorando+habilidades;Desenvolvedor+em+formação;Colaborador+de+código+aberto">
   </a>
 </p>
 
 ## 🌟 Sobre Mim
 Prezados,
 
-Estou cursando Sistemas de Informação. Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo. Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação. Estou determinado a me destacar neste campo dinâmico e em constante evolução.
+Tenho um forte interesse pela tecnologia e estou empenhado em continuar aprendendo.
+Atualmente, estou focado em desenvolver habilidades de programação, com ênfase em Java, enquanto busco explorar todos os aspectos da área de tecnologia da informação.
+Estou determinado a me destacar neste campo dinâmico e em constante evolução.
 
 ## Habilidades Técnicas:
 - **Linguagens de Programação:** Java, Python
