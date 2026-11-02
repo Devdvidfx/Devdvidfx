@@ -1,6 +1,5 @@
 # Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://wallpaper4k.top/wp-content/uploads/2024/01/Wallpaper-de-resolucao-ultra-HD-programacao-1536x864.webp" width="100%" height="350px" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
